@@ -21,7 +21,7 @@ Prefab **with** support for changing Foot Height. It uses 35 bits of parameter.
 
 FootHeight **非対応**プレハブです。 27bitのパラメータを使います。
 
-Prefab **without** support for changing Foot Height. It uses 35 bits of parameter.
+Prefab **without** support for changing Foot Height. It uses 27 bits of parameter.
 
 ## 導入方法 / Installation
 
